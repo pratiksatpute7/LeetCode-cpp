@@ -27,13 +27,17 @@ public:
         while(!q.empty()){
             int size = q.size();
 
+            //Run the for loop for each level
             for(int i = 0; i < size; i++){
                 Node* node = q.front();
                 q.pop();
+
+                // if last node in the q then set next - > null
                 if(node) {
                     if(i == size - 1){
                         node -> next = NULL;
                     } else {
+                        // else just set the current -> next to the node at the front of the queue
                         node -> next = q.front();
                     }
 
