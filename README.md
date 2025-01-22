@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -32,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0098-validate-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0199-binary-tree-right-side-view) |
@@ -40,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Linked List
 |  |
