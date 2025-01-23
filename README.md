@@ -49,9 +49,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Linked List
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## String
+|  |
+| ------- |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2134-maximize-the-confusion-of-an-exam) |
+## Sliding Window
+|  |
+| ------- |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2134-maximize-the-confusion-of-an-exam) |
+## Prefix Sum
+|  |
+| ------- |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2134-maximize-the-confusion-of-an-exam) |
 <!---LeetCode Topics End-->
