@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Linked List
 |  |
@@ -67,4 +68,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2134-maximize-the-confusion-of-an-exam) |
+## Array
+|  |
+| ------- |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 <!---LeetCode Topics End-->
