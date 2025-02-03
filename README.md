@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0739-daily-temperatures) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
 |  |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
@@ -118,4 +120,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0022-generate-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
