@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0445-add-two-numbers-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0445-add-two-numbers-ii) |
 ## String
 |  |
 | ------- |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0155-min-stack) |
+| [0445-add-two-numbers-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0739-daily-temperatures) |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0445-add-two-numbers-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0445-add-two-numbers-ii) |
 ## Backtracking
 |  |
 | ------- |
