@@ -11,21 +11,28 @@
 class Solution {
 public:
 
+    // Recurssion
     ListNode* removeElements(ListNode* head, int val) {
-        ListNode* current = head;
-        ListNode* tail = head;
-        
-        while(current && current -> val == val) {
-            head = head -> next;
-            current = head;
-        }
-        while(current != NULL) {
-            while(current -> next != NULL && current -> next -> val == val) {
-                current -> next = current -> next -> next;
-            }
-            current = current -> next;
-        }
+        if (head == nullptr) return nullptr; // Base case: Empty list
 
-        return head;
+        head->next = removeElements(head->next, val); // Recursive call for next node
+
+        return (head->val == val) ? head->next : head; // Skip node if value matches
     }
+    // ListNode* removeElements(ListNode* head, int val) {
+    //     ListNode* current = head;
+
+    //     while(current && current -> val == val) {
+    //         head = head -> next;
+    //         current = head;
+    //     }
+    //     while(current != NULL) {
+    //         while(current -> next != NULL && current -> next -> val == val) {
+    //             current -> next = current -> next -> next;
+    //         }
+    //         current = current -> next;
+    //     }
+
+    //     return head;
+    // }
 };
