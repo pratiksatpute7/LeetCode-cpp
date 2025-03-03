@@ -1,16 +1,6 @@
 class Solution {
 public:
     string decodeString(string s) {
-        // stack<int> num;
-        // stack<string> str;
-
-        // for(auto ch : s) {
-        //     if(isdigit(ch)) {
-        //         num.push(ch);
-        //     } else if(ch != ']'){
-        //         str.push(ch);
-        //     }
-        // }
 
         stack<string> st;
 
@@ -26,6 +16,7 @@ public:
 
                 // create numeric number
                 string numericTimes = "";
+                // [0] because we are using string 
                 while (!st.empty() && isdigit(st.top()[0])) {
                     numericTimes += st.top();
                     st.pop();
