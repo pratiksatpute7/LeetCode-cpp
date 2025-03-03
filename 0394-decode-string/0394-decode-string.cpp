@@ -26,8 +26,9 @@ public:
 
                 // final decoding
                 string currDecode = "";
-                while (n--) {
+                while (n > 0) {
                     currDecode += stringToRepeat;
+                    n--;
                 }
                 st.push(currDecode);
 
