@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0394-decode-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0394-decode-string) |
 | [1023-time-based-key-value-store](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1023-time-based-key-value-store) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0503-next-greater-element-ii) |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0394-decode-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
