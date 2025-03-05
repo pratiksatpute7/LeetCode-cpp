@@ -11,6 +11,10 @@ private:
         createSubSet(nums, ds, result, n, index + 1);
         ds.pop_back();
 
+
+        // here we hava taken the current index and then we not take it 
+        // but if the nex index values is same we need to skip it 
+
         while(index + 1 < n && nums[index + 1] == nums[index]) {
             index +=  1;
         }
