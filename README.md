@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0090-subsets-ii) |
 | [0212-word-search-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0212-word-search-ii) |
