@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0212-word-search-ii) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0131-palindrome-partitioning) |
 ## Design
 |  |
 | ------- |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0212-word-search-ii) |
 ## Monotonic Stack
 |  |
