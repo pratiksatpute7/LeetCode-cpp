@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0098-validate-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0212-word-search-ii) |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -168,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0090-subsets-ii) |
 | [0212-word-search-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0212-word-search-ii) |
 ## Monotonic Stack
@@ -219,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0212-word-search-ii) |
 ## Recursion
 |  |
