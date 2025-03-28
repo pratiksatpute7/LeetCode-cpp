@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0146-lru-cache](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0203-remove-linked-list-elements) |
 | [0445-add-two-numbers-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0445-add-two-numbers-ii) |
 ## String
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0146-lru-cache](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0208-implement-trie-prefix-tree) |
 | [0496-next-greater-element-i](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0496-next-greater-element-i) |
 | [1023-time-based-key-value-store](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1023-time-based-key-value-store) |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -239,4 +242,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0394-decode-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2050-count-good-numbers) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
