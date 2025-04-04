@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0739-daily-temperatures) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0496-next-greater-element-i) |
 | [1023-time-based-key-value-store](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1023-time-based-key-value-store) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -223,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0217-contains-duplicate](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0883-car-fleet) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -280,4 +284,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2442-number-of-arithmetic-triplets) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
