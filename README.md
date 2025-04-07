@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -39,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -53,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -62,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0287-find-the-duplicate-number) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1023-time-based-key-value-store](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1023-time-based-key-value-store) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -150,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0496-next-greater-element-i) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1023-time-based-key-value-store](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1023-time-based-key-value-store) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2442-number-of-arithmetic-triplets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2442-number-of-arithmetic-triplets) |
@@ -244,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0287-find-the-duplicate-number) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2442-number-of-arithmetic-triplets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2442-number-of-arithmetic-triplets) |
 ## Greedy
 |  |
