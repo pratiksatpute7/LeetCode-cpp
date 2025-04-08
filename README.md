@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0046-permutations) |
+| [0074-search-a-2d-matrix](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0090-subsets-ii) |
@@ -283,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0212-word-search-ii) |
 ## Recursion
