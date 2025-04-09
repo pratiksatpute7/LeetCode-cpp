@@ -8,7 +8,7 @@ public:
             long long mid = start + (end - start) / 2;
             long long totalCars = 0;
             for(int rank : ranks) {
-                totalCars += (long long)(sqrt((double)mid / rank));
+                totalCars += (long long)(sqrt(mid / rank));
             }
 
             if(totalCars >= cars) {
