@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2442-number-of-arithmetic-triplets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2442-number-of-arithmetic-triplets) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0883-car-fleet) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Two Pointers
 |  |
@@ -262,11 +264,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2442-number-of-arithmetic-triplets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2442-number-of-arithmetic-triplets) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Simulation
 |  |
