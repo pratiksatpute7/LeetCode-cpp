@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2665-minimum-time-to-repair-cars](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2665-minimum-time-to-repair-cars) |
+| [2832-find-the-longest-equal-subarray](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2832-find-the-longest-equal-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2211-k-radius-subarray-averages](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2211-k-radius-subarray-averages) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2832-find-the-longest-equal-subarray](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2832-find-the-longest-equal-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2626-count-the-number-of-good-subarrays](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2665-minimum-time-to-repair-cars) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2832-find-the-longest-equal-subarray](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2832-find-the-longest-equal-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -181,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2442-number-of-arithmetic-triplets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2442-number-of-arithmetic-triplets) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2832-find-the-longest-equal-subarray](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2832-find-the-longest-equal-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
