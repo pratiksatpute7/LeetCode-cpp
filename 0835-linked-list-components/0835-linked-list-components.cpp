@@ -5,7 +5,8 @@ public:
         int count = 0;
 
         while (head) {
-            // head is in nums, and either next is null or next is not in nums
+//             if (current node is in nums &&
+//    (next node is either null or not in nums))
             if (numSet.count(head->val) &&
                 (!head->next || !numSet.count(head->next->val))) {
                 count++;
