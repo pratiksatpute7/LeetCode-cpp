@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0146-lru-cache](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0146-lru-cache) |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0015-3sum) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0287-find-the-duplicate-number) |
