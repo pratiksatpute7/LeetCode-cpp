@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-leaf-similar-trees](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0904-leaf-similar-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-leaf-similar-trees](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0904-leaf-similar-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-leaf-similar-trees](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0904-leaf-similar-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -85,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2665-minimum-time-to-repair-cars](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2665-minimum-time-to-repair-cars) |
 | [2832-find-the-longest-equal-subarray](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2832-find-the-longest-equal-subarray) |
@@ -177,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2211-k-radius-subarray-averages](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2211-k-radius-subarray-averages) |
 | [2442-number-of-arithmetic-triplets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2665-minimum-time-to-repair-cars) |
