@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0739-daily-temperatures) |
 | [0835-linked-list-components](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0835-linked-list-components) |
 | [0883-car-fleet](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0883-car-fleet) |
+| [1127-last-stone-weight](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1127-last-stone-weight) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0347-top-k-frequent-elements) |
+| [1127-last-stone-weight](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
