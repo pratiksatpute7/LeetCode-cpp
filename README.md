@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1582-design-browser-history](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1582-design-browser-history) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2211-k-radius-subarray-averages](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2211-k-radius-subarray-averages) |
 | [2442-number-of-arithmetic-triplets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2442-number-of-arithmetic-triplets) |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2442-number-of-arithmetic-triplets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
