@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0355-design-twitter) |
 | [0937-online-stock-span](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0937-online-stock-span) |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1582-design-browser-history) |
 ## Sorting
@@ -327,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0621-task-scheduler) |
@@ -346,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2442-number-of-arithmetic-triplets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2442-number-of-arithmetic-triplets) |
@@ -408,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
