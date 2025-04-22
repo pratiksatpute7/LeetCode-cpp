@@ -7,25 +7,21 @@ public:
         sort(hand.begin(), hand.end());
         map<int, int> count;
 
-        // Step 1: Build frequency map
         for (int card : hand) {
             count[card]++;
         }
 
-        // Step 2: Process the map from smallest to largest
         while (!count.empty()) {
-            int start = count.begin()->first;  // always smallest key
-
-            // Try to form one group starting from 'start'
+            int start = count.begin()->first;  
             for (int i = 0; i < groupSize; i++) {
                 int curr = start + i;
 
-                if (count[curr] == 0) return false;  // group can't be formed
+                if (count[curr] == 0) return false;  
 
                 count[curr]--;
 
                 if (count[curr] == 0) {
-                    count.erase(curr);  // safe to erase inside the loop
+                    count.erase(curr); 
                 }
             }
         }
