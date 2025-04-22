@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0394-decode-string) |
+| [0768-partition-labels](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1023-time-based-key-value-store) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0768-partition-labels](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0768-partition-labels) |
 | [0835-linked-list-components](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0835-linked-list-components) |
 | [0876-hand-of-straights](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -365,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0768-partition-labels](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0768-partition-labels) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2442-number-of-arithmetic-triplets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -377,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0621-task-scheduler) |
+| [0768-partition-labels](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2026-merge-triplets-to-form-target-triplet) |
