@@ -36,3 +36,25 @@ public:
         return battleShip;
     }
 };
+
+
+// class Solution {
+// public:
+//     int countBattleships(vector<vector<char>>& board) {
+//         int rows = board.size();
+//         int cols = board[0].size();
+//         int count = 0;
+
+//         for (int row = 0; row < rows; row++) {
+//             for (int col = 0; col < cols; col++) {
+//                 if (board[row][col] == 'X') {
+//                     if (row > 0 && board[row - 1][col] == 'X') continue; // Skip vertical continuation
+//                     if (col > 0 && board[row][col - 1] == 'X') continue; // Skip horizontal continuation
+//                     count++; // Found a new battleship head
+//                 }
+//             }
+//         }
+
+//         return count;
+//     }
+// };
