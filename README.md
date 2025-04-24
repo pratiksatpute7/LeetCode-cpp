@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0463-island-perimeter) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0463-island-perimeter) |
@@ -485,9 +487,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0310-minimum-height-trees) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
