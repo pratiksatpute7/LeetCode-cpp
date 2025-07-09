@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0739-daily-temperatures) |
 | [0835-linked-list-components](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0835-linked-list-components) |
+| [0875-longest-mountain-in-array](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0875-longest-mountain-in-array) |
 | [0876-hand-of-straights](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1014-k-closest-points-to-origin) |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0678-valid-parenthesis-string) |
+| [0875-longest-mountain-in-array](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0875-longest-mountain-in-array) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Design
 |  |
@@ -392,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0768-partition-labels) |
+| [0875-longest-mountain-in-array](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0875-longest-mountain-in-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2442-number-of-arithmetic-triplets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2442-number-of-arithmetic-triplets) |
@@ -459,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0875-longest-mountain-in-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2442-number-of-arithmetic-triplets) |
 ## Heap (Priority Queue)
 |  |
