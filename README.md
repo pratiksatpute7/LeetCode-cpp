@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0904-leaf-similar-trees) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1484-linked-list-in-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2035-count-sub-islands) |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-linked-list-components](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0835-linked-list-components) |
 | [0876-hand-of-straights](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1023-time-based-key-value-store](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1023-time-based-key-value-store) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -504,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0310-minimum-height-trees) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Topological Sort
 |  |
 | ------- |
@@ -513,5 +516,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
