@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0076-minimum-window-substring](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0594-longest-harmonious-subsequence) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0503-next-greater-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0739-daily-temperatures) |
 | [0835-linked-list-components](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0835-linked-list-components) |
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0355-design-twitter) |
 | [0496-next-greater-element-i](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0768-partition-labels) |
@@ -374,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0594-longest-harmonious-subsequence](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0883-car-fleet) |
@@ -489,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
