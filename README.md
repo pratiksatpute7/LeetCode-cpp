@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-car-fleet](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1127-last-stone-weight) |
+| [1239-largest-1-bordered-square](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1239-largest-1-bordered-square) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0875-longest-mountain-in-array](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0875-longest-mountain-in-array) |
+| [1239-largest-1-bordered-square](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1239-largest-1-bordered-square) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Design
 |  |
@@ -459,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0463-island-perimeter) |
+| [1239-largest-1-bordered-square](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1239-largest-1-bordered-square) |
 | [2035-count-sub-islands](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2035-count-sub-islands) |
 ## Recursion
 |  |
