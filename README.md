@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1720-crawler-log-folder](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1720-crawler-log-folder) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2317-count-collisions-on-a-road](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2317-count-collisions-on-a-road) |
 ## Sliding Window
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-design-browser-history](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1582-design-browser-history) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1720-crawler-log-folder](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1720-crawler-log-folder) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -335,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-car-fleet](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1582-design-browser-history) |
+| [1720-crawler-log-folder](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1720-crawler-log-folder) |
 | [2317-count-collisions-on-a-road](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2317-count-collisions-on-a-road) |
 ## Math
 |  |
