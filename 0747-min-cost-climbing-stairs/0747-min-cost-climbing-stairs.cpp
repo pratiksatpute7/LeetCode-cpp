@@ -3,18 +3,17 @@ public:
     int minCostClimbingStairs(vector<int>& cost) {
         // unordered_map<int, int> dp;
         // return min(findCost(0, cost, dp), findCost(1, cost, dp));
-
         int n = cost.size();
-        int pre1 = 0;
-        int pre2 = 0;
+        int prev = 0, prev2 = 0;
 
-        for(int i = n -1; i >= 0; i--) {
-            int curr = cost[i] + min(pre1, pre2);
-            pre2 = pre1;
-            pre1 = curr;
+        for (int i = 2; i <= n; i++) {
+            int curr = min(prev + cost[i - 1], prev2 + cost[i - 2]);
+            prev2 = prev;
+            prev = curr;
         }
 
-        return min(pre1, pre2);
+        return prev;
+
     }
 
     int findCost(int index, vector<int>& cost, unordered_map<int, int>& dp){
