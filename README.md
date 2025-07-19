@@ -308,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0875-longest-mountain-in-array) |
+| [1013-fibonacci-number](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1013-fibonacci-number) |
 | [1239-largest-1-bordered-square](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1239-largest-1-bordered-square) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Design
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0445-add-two-numbers-ii) |
+| [1013-fibonacci-number](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1014-k-closest-points-to-origin) |
 | [2050-count-good-numbers](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2050-count-good-numbers) |
 ## Backtracking
@@ -480,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0394-decode-string) |
+| [1013-fibonacci-number](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2050-count-good-numbers) |
 ## Doubly-Linked List
@@ -545,4 +548,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
