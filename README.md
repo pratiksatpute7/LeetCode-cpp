@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0800-letter-case-permutation) |
 | [1023-time-based-key-value-store](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1023-time-based-key-value-store) |
+| [1250-longest-common-subsequence](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1250-longest-common-subsequence) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-longest-mountain-in-array](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1013-fibonacci-number) |
 | [1239-largest-1-bordered-square](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1239-largest-1-bordered-square) |
+| [1250-longest-common-subsequence](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1250-longest-common-subsequence) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Design
 |  |
