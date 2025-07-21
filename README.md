@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0039-combination-sum) |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0215-kth-largest-element-in-an-array) |
