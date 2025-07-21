@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0594-longest-harmonious-subsequence) |
+| [1020-longest-turbulent-subarray](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1020-longest-turbulent-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1967-longest-substring-of-all-vowels-in-order) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1014-k-closest-points-to-origin) |
+| [1020-longest-turbulent-subarray](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1020-longest-turbulent-subarray) |
 | [1127-last-stone-weight](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1127-last-stone-weight) |
 | [1239-largest-1-bordered-square](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1239-largest-1-bordered-square) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -316,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1013-fibonacci-number) |
+| [1020-longest-turbulent-subarray](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1020-longest-turbulent-subarray) |
 | [1239-largest-1-bordered-square](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1239-largest-1-bordered-square) |
 | [1250-longest-common-subsequence](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1250-longest-common-subsequence) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
