@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0022-generate-parentheses) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0594-longest-harmonious-subsequence) |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
