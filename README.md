@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0125-valid-palindrome) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0078-subsets) |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0141-linked-list-cycle) |
@@ -405,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0242-valid-anagram) |
