@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0387-first-unique-character-in-a-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0768-partition-labels) |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0355-design-twitter) |
+| [0387-first-unique-character-in-a-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0621-task-scheduler) |
@@ -537,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0621-task-scheduler) |
 ## Quickselect
@@ -572,4 +575,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1013-fibonacci-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
