@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0015-3sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0045-jump-game-ii) |
