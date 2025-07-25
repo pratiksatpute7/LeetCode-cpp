@@ -1,16 +1,83 @@
-class MyHashMap {
+class Node {
 public:
-    int data[1000001];
-    MyHashMap() {
-        fill(data, data + 1000001, -1);
-    }
-    void put(int key, int val) {
-        data[key] = val;
-    }
-    int get(int key) {
-        return data[key];
-    }
-    void remove(int key) {
-        data[key] = -1;
+    int key;
+    int val;
+    Node* next;
+
+    Node(int k, int v, Node* n = nullptr) {
+        key = k;
+        val = v;
+        next = n;
     }
 };
+
+class MyHashMap {
+private:
+    vector<Node*> map;
+
+public:
+    MyHashMap() {
+        map.resize(1000);
+        for (int i = 0; i < 1000; ++i) {
+            map[i] = new Node(-1, -1);
+        }
+    }
+
+    int hash(int key) {
+        return key % 1000;
+    }
+
+    void put(int key, int value) {
+        int hash_key = hash(key);
+        Node* cur = map[hash_key];
+
+        while (cur->next) {
+            if (cur->next->key == key) {
+                cur->next->val = value;
+                return;
+            }
+            cur = cur->next;
+        }
+
+        cur->next = new Node(key, value);
+    }
+
+    int get(int key) {
+        int hash_key = hash(key);
+        Node* cur = map[hash_key];
+
+        while (cur->next) {
+            if (cur->next->key == key) {
+                return cur->next->val;
+            }
+            cur = cur->next;
+        }
+
+        return -1;
+    }
+
+    void remove(int key) {
+        int hash_key = hash(key);
+        Node* cur = map[hash_key];
+
+        while (cur->next) {
+            if (cur->next->key == key) {
+                Node* temp = cur->next;
+                cur->next = cur->next->next;
+                delete temp;
+                return;
+            }
+            cur = cur->next;
+        }
+    }
+};
+
+
+
+/**
+ * Your MyHashMap object will be instantiated and called as such:
+ * MyHashMap* obj = new MyHashMap();
+ * obj->put(key,value);
+ * int param_2 = obj->get(key);
+ * obj->remove(key);
+ */
