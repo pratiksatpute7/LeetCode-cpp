@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0355-design-twitter) |
 | [0445-add-two-numbers-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0445-add-two-numbers-ii) |
+| [0817-design-hashmap](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0835-linked-list-components) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1484-linked-list-in-binary-tree) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0747-min-cost-climbing-stairs) |
+| [0817-design-hashmap](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0835-linked-list-components) |
 | [0875-longest-mountain-in-array](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0875-longest-mountain-in-array) |
 | [0876-hand-of-straights](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0876-hand-of-straights) |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0768-partition-labels) |
+| [0817-design-hashmap](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0835-linked-list-components) |
 | [0876-hand-of-straights](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -345,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0355-design-twitter) |
+| [0817-design-hashmap](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0817-design-hashmap) |
 | [0937-online-stock-span](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0937-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1023-time-based-key-value-store) |
 | [1582-design-browser-history](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1582-design-browser-history) |
@@ -584,4 +588,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1292-immediate-food-delivery-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1292-immediate-food-delivery-ii) |
 | [1908-recyclable-and-low-fat-products](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1908-recyclable-and-low-fat-products) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
