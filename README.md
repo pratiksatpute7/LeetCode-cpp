@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0120-triangle](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0131-palindrome-partitioning) |
