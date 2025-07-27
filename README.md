@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0463-island-perimeter) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0684-redundant-connection) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0419-battleships-in-a-board](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0463-island-perimeter) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0684-redundant-connection) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0904-leaf-similar-trees) |
@@ -585,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0310-minimum-height-trees) |
+| [0684-redundant-connection](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Topological Sort
 |  |
@@ -595,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2035-count-sub-islands) |
 ## Memoization
