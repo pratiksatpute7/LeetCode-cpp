@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0463-island-perimeter) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0463-island-perimeter) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0744-network-delay-time) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0904-leaf-similar-trees) |
@@ -558,6 +560,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0621-task-scheduler) |
+| [0744-network-delay-time](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0744-network-delay-time) |
 | [1014-k-closest-points-to-origin](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
@@ -588,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0744-network-delay-time) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Topological Sort
 |  |
@@ -623,4 +627,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0062-unique-paths) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
