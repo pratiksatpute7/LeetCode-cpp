@@ -25,8 +25,8 @@ public:
             if (d > dist[u]) continue;
 
             for(auto& [v, w] : graph[u]) {
-                if(dist[u] + w < dist[v]) {
-                    dist[v] = dist[u] + w;
+                if(d + w < dist[v]) {
+                    dist[v] = d + w;
                     pq.push({v, dist[v]});
                 }
             }
