@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1023-time-based-key-value-store](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1023-time-based-key-value-store) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1239-largest-1-bordered-square](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1239-largest-1-bordered-square) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
