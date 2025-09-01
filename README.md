@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2035-count-sub-islands](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2035-count-sub-islands) |
 | [2211-k-radius-subarray-averages](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2211-k-radius-subarray-averages) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-number-of-arithmetic-triplets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-number-of-arithmetic-triplets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2442-number-of-arithmetic-triplets) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -463,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Two Pointers
@@ -500,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Simulation
@@ -507,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2317-count-collisions-on-a-road](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2317-count-collisions-on-a-road) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -570,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0744-network-delay-time) |
 | [1014-k-closest-points-to-origin](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1127-last-stone-weight) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
 |  |
 | ------- |
