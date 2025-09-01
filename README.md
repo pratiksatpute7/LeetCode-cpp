@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0800-letter-case-permutation) |
 | [1023-time-based-key-value-store](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1250-longest-common-subsequence) |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0778-reorganize-string) |
 | [0817-design-hashmap](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0835-linked-list-components) |
 | [0876-hand-of-straights](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0876-hand-of-straights) |
@@ -458,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0436-find-right-interval](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0436-find-right-interval) |
 | [0594-longest-harmonious-subsequence](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1014-k-closest-points-to-origin) |
@@ -500,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -573,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0744-network-delay-time) |
+| [0778-reorganize-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1127-last-stone-weight) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -587,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0778-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
