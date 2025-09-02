@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2035-count-sub-islands](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2035-count-sub-islands) |
 | [2211-k-radius-subarray-averages](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2211-k-radius-subarray-averages) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-number-of-arithmetic-triplets](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1014-k-closest-points-to-origin) |
 | [2050-count-good-numbers](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2050-count-good-numbers) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -515,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2317-count-collisions-on-a-road](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2317-count-collisions-on-a-road) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Bit Manipulation
 |  |
@@ -646,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Shortest Path
 |  |
 | ------- |
