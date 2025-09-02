@@ -16,19 +16,23 @@ public:
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
         dfs(root, nullptr);
         bfs(target, k);
+
         return result;
     }
 
-    void dfs(TreeNode* node, TreeNode* parent) {
-        if(!node) {
+    void dfs(TreeNode* root, TreeNode* parent) {
+        if(!root) {
             return;
         }
-        mp[node] = parent;
-        if(node -> left) {
-            dfs(node -> left, node);
+
+        mp[root] = parent;
+
+        if(root -> left) {
+            dfs(root -> left, root);
         }
-        if(node -> right) {
-            dfs(node -> right, node);
+
+        if(root -> right) {
+            dfs(root -> right, root);
         }
     }
 
@@ -36,21 +40,23 @@ public:
         queue<TreeNode*> q;
         q.push(target);
         visited.insert(target);
-
         int count = 0;
+
         while(!q.empty()) {
             int size = q.size();
-            if(k == count) {
-                while(!q.empty()) {
+
+            if(count == k) {
+                for(int i = 0; i < size; i++) {
                     result.push_back(q.front() -> val);
                     q.pop();
                 }
                 return;
             }
-            
+
             for(int i = 0; i < size; i++) {
                 TreeNode* curr = q.front();
                 q.pop();
+
                 if(curr -> left && !visited.count(curr -> left)) {
                     q.push(curr -> left);
                     visited.insert(curr->left);
@@ -64,7 +70,7 @@ public:
                     visited.insert(mp[curr]);
                 }
             }
-            count ++;
+            count++;
         }
     }
 };
