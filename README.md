@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0904-leaf-similar-trees) |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0463-island-perimeter) |
+| [0572-subtree-of-another-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0744-network-delay-time) |
@@ -650,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0572-subtree-of-another-tree) |
 | [0817-design-hashmap](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0817-design-hashmap) |
 ## Combinatorics
 |  |
@@ -660,4 +664,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0744-network-delay-time) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/pratiksatpute7/LeetCode-cpp/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
