@@ -11,35 +11,18 @@
  */
 class Solution {
 public:
-    bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        if(root == NULL && subRoot == NULL) {
-            return true;
-        }
+    bool isSame(TreeNode* s, TreeNode* t) {
+        if (!s && !t) return true;
+        if (!s || !t || s->val != t->val) return false;
 
-        if(root == NULL || subRoot == NULL) {
-            return false;
-        }
-
-        if(isSame(root, subRoot)) {
-            return true;
-        }
-
-        return isSubtree(root -> right, subRoot) || isSubtree(root -> left, subRoot);
-
-        
+        return isSame(s->left, t->left) && isSame(s->right, t->right);
     }
 
-    bool isSame(TreeNode* nodeRoot, TreeNode* nodeSubroot) {
+    bool isSubtree(TreeNode* root, TreeNode* subRoot) {
+        if (!root) return false;
 
-        if(nodeRoot == NULL && nodeSubroot == NULL) {
-            return true;
-        }
+        if (isSame(root, subRoot)) return true;
 
-        if(nodeRoot == NULL || nodeSubroot == NULL) {
-            return false;
-        }
-
-        return (nodeRoot -> val == nodeSubroot -> val) && isSame(nodeRoot -> right, nodeSubroot -> right)
-        && isSame(nodeRoot -> left, nodeSubroot -> left);
+        return isSubtree(root->left, subRoot) || isSubtree(root->right, subRoot);
     }
 };
